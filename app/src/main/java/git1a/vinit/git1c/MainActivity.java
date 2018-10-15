@@ -11,7 +11,12 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
     }
 
-    public void TestUpload(){
+    public void method1(){
+        int i = 0;
+        i = i + 1;
+    }
+
+    public void method2(){
         int i = 0;
         i = i + 1;
     }
