@@ -20,4 +20,15 @@ public class MainActivity extends Activity {
         int i = 0;
         i = i + 1;
     }
+
+    public void method3(){
+        int i = 0;
+        i = i + 1;
+    }
+
+
+
+
+
+
 }
